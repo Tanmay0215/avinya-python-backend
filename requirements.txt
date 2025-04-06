@@ -1,0 +1,6 @@
+flask==2.3.3
+flask-cors==3.0.10
+google-genai
+python-dotenv
+groq
+Pillow==11.1.0
